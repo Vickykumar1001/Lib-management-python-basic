@@ -1,0 +1,9 @@
+_____________Library Management System______________  
+                        Returned By: Vicky
+                        Library ID: 1001
+                        Class: 12A
+    Date: 2024-10-19        Time:02:10:16.580026
+--------------------------------------------------------------
+S.N. 		 Bookname 
+1		Harry Potter
+2		Pride and Prejudice
